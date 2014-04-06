@@ -22,5 +22,12 @@
   "bugs": {
     "url": "https://github.com/angularjs-de/angularjs-de-seed/issues"
   },
-  "homepage": "https://github.com/angularjs-de/angularjs-de-seed"
+  "homepage": "https://github.com/angularjs-de/angularjs-de-seed",
+  "dependencies": {
+    "karma": "^0.12.3"
+  },
+  "devDependencies": {
+    "karma-jasmine": "^0.1.5",
+    "karma-phantomjs-launcher": "^0.1.4"
+  }
 }
