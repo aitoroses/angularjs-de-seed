@@ -1,6 +1,7 @@
 'use strict';
 
 describe('An angularjsDE module', function () {
+
   it('should exists', function () {
 
     var loadMainModule = function () {
@@ -9,4 +10,5 @@ describe('An angularjsDE module', function () {
 
     expect(loadMainModule).not.toThrow();
   });
+  
 });
