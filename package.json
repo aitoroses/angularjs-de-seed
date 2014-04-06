@@ -1,0 +1,26 @@
+{
+  "name": "angularjs-de-seed",
+  "version": "0.0.1",
+  "description": "This is an AnguarJS Seed / Blueprint project by the AngularJS-DE Team",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/angularjs-de/angularjs-de-seed.git"
+  },
+  "keywords": [
+    "angularjs",
+    "angularjsDE",
+    "seed",
+    "blueprint"
+  ],
+  "author": [
+    "Robin Böhm <robinboehm@googlemail.com>"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/angularjs-de/angularjs-de-seed/issues"
+  },
+  "homepage": "https://github.com/angularjs-de/angularjs-de-seed"
+}
