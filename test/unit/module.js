@@ -1,3 +1,5 @@
+'use strict';
+
 describe('An angularjsDE module', function () {
   it('should exists', function () {
 
