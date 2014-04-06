@@ -1,0 +1,23 @@
+{
+  "name": "angularjs-de-seed",
+  "version": "0.0.1",
+  "homepage": "http://angularjs.de",
+  "authors": [
+    "Robin Böhm <robinboehm@googlemail.com>"
+  ],
+  "description": "This is an AnguarJS Seed / Blueprint project by the AngularJS-DE Team",
+  "keywords": [
+    "angularjs",
+    "angularjsDE",
+    "seed",
+    "blueprint"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
