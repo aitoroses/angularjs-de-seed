@@ -9,6 +9,14 @@ If you don't like this initial structure - feel free to use your own :)
 ## TODO
 * Project structure
 * Project Build
+    * ngMin
+    * ngDocs
+    * clean
+    * jshint
+    * conventional-changelog
+    * Minify
+    * Concat
+    * Grunt/Gulp
 * Testing
 	* Helpers
 		* Karma
@@ -41,3 +49,4 @@ If you don't like this initial structure - feel free to use your own :)
 	* E2E
 		* Protractor
 			* Drag n Drop
+    * CI Integration
