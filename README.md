@@ -12,10 +12,9 @@ If you don't like this initial structure - feel free to use your own :)
 	* Helpers
 		* [Karma](https://github.com/angularjs-de/angularjs-de-seed/blob/master/karma.conf.js) + [NPM Packages](https://github.com/angularjs-de/angularjs-de-seed/blob/master/package.json)
 	* of AngularJS Concepts	(Unit Testing)
-    		* Services
-    		    * [Factory](https://github.com/angularjs-de/angularjs-de-seed/blob/master/src/scripts/services/SimpleService.js) + [Test](https://github.com/angularjs-de/angularjs-de-seed/blob/master/test/unit/services/SimpleService.spec.js)
-    		    * [Provider](https://github.com/angularjs-de/angularjs-de-seed/blob/master/src/scripts/services/ProviderService.js) + [Test](https://github.com/angularjs-de/angularjs-de-seed/blob/master/test/unit/services/ProviderService.spec.js)
-    		    *
+		* Services
+			* [Factory](https://github.com/angularjs-de/angularjs-de-seed/blob/master/src/scripts/services/SimpleService.js) + [Test](https://github.com/angularjs-de/angularjs-de-seed/blob/master/test/unit/services/SimpleService.spec.js)
+    		* [Provider](https://github.com/angularjs-de/angularjs-de-seed/blob/master/src/scripts/services/ProviderService.js) + [Test](https://github.com/angularjs-de/angularjs-de-seed/blob/master/test/unit/services/ProviderService.spec.js)
 
 ## TODO
 * Project Build
