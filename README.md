@@ -6,8 +6,18 @@ We running this over 2 years very successful now.
 If you like to improve some parts of this, feel free to send us a PR.
 If you don't like this initial structure - feel free to use your own :)
 
+## Done
+* Basic Project structure
+* Testing
+	* Helpers
+		* [Karma](https://github.com/angularjs-de/angularjs-de-seed/blob/master/karma.conf.js) + [NPM Packages](https://github.com/angularjs-de/angularjs-de-seed/blob/master/package.json)
+	* of AngularJS Concepts	(Unit Testing)
+    		* Services
+    		    * [Factory](https://github.com/angularjs-de/angularjs-de-seed/blob/master/src/scripts/services/SimpleService.js) + [Test](https://github.com/angularjs-de/angularjs-de-seed/blob/master/test/unit/services/SimpleService.spec.js)
+    		    * [Provider](https://github.com/angularjs-de/angularjs-de-seed/blob/master/src/scripts/services/ProviderService.js) + [Test](https://github.com/angularjs-de/angularjs-de-seed/blob/master/test/unit/services/ProviderService.spec.js)
+    		    *
+
 ## TODO
-* Project structure
 * Project Build
     * ngMin
     * ngDocs
@@ -19,7 +29,6 @@ If you don't like this initial structure - feel free to use your own :)
     * Grunt/Gulp
 * Testing
 	* Helpers
-		* Karma
 		* Jasmine Spies
 		* ng-html2js
 		* Protractor
